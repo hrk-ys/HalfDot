@@ -1,0 +1,28 @@
+dependencies: \
+  /work/github/HalfDot/cocos2d/external/Box2D/Dynamics/Joints/b2Joint.cpp \
+  /work/github/HalfDot/cocos2d/build/../external/Box2D/Dynamics/Joints/b2Joint.h \
+  /work/github/HalfDot/cocos2d/build/../external/Box2D/Common/b2Math.h \
+  /work/github/HalfDot/cocos2d/build/../external/Box2D/Common/b2Settings.h \
+  /work/github/HalfDot/cocos2d/build/../external/Box2D/Dynamics/Joints/b2DistanceJoint.h \
+  /work/github/HalfDot/cocos2d/build/../external/Box2D/Dynamics/Joints/b2WheelJoint.h \
+  /work/github/HalfDot/cocos2d/build/../external/Box2D/Dynamics/Joints/b2MouseJoint.h \
+  /work/github/HalfDot/cocos2d/build/../external/Box2D/Dynamics/Joints/b2RevoluteJoint.h \
+  /work/github/HalfDot/cocos2d/build/../external/Box2D/Dynamics/Joints/b2PrismaticJoint.h \
+  /work/github/HalfDot/cocos2d/build/../external/Box2D/Dynamics/Joints/b2PulleyJoint.h \
+  /work/github/HalfDot/cocos2d/build/../external/Box2D/Dynamics/Joints/b2GearJoint.h \
+  /work/github/HalfDot/cocos2d/build/../external/Box2D/Dynamics/Joints/b2WeldJoint.h \
+  /work/github/HalfDot/cocos2d/build/../external/Box2D/Dynamics/Joints/b2FrictionJoint.h \
+  /work/github/HalfDot/cocos2d/build/../external/Box2D/Dynamics/Joints/b2RopeJoint.h \
+  /work/github/HalfDot/cocos2d/build/../external/Box2D/Dynamics/Joints/b2MotorJoint.h \
+  /work/github/HalfDot/cocos2d/build/../external/Box2D/Dynamics/b2Body.h \
+  /work/github/HalfDot/cocos2d/build/../external/Box2D/Collision/Shapes/b2Shape.h \
+  /work/github/HalfDot/cocos2d/build/../external/Box2D/Common/b2BlockAllocator.h \
+  /work/github/HalfDot/cocos2d/build/../external/Box2D/Collision/b2Collision.h \
+  /work/github/HalfDot/cocos2d/build/../external/Box2D/Dynamics/b2World.h \
+  /work/github/HalfDot/cocos2d/build/../external/Box2D/Common/b2StackAllocator.h \
+  /work/github/HalfDot/cocos2d/build/../external/Box2D/Dynamics/b2ContactManager.h \
+  /work/github/HalfDot/cocos2d/build/../external/Box2D/Collision/b2BroadPhase.h \
+  /work/github/HalfDot/cocos2d/build/../external/Box2D/Collision/b2DynamicTree.h \
+  /work/github/HalfDot/cocos2d/build/../external/Box2D/Common/b2GrowableStack.h \
+  /work/github/HalfDot/cocos2d/build/../external/Box2D/Dynamics/b2WorldCallbacks.h \
+  /work/github/HalfDot/cocos2d/build/../external/Box2D/Dynamics/b2TimeStep.h

@@ -1,0 +1,19 @@
+dependencies: \
+  /work/github/HalfDot/cocos2d/cocos/editor-support/cocostudio/CCActionFrameEasing.cpp \
+  /work/github/HalfDot/cocos2d/build/../cocos/editor-support/cocostudio/CCActionFrameEasing.h \
+  /work/github/HalfDot/cocos2d/build/../cocos/base/CCRef.h \
+  /work/github/HalfDot/cocos2d/build/../cocos/platform/CCPlatformMacros.h \
+  /work/github/HalfDot/cocos2d/build/../cocos/base/ccConfig.h \
+  /work/github/HalfDot/cocos2d/build/../cocos/platform/CCPlatformConfig.h \
+  /work/github/HalfDot/cocos2d/build/../cocos/platform/CCPlatformDefine.h \
+  /work/github/HalfDot/cocos2d/build/../cocos/platform/ios/CCPlatformDefine-ios.h \
+  /work/github/HalfDot/cocos2d/build/../cocos/editor-support/cocostudio/CocosStudioExport.h \
+  /work/github/HalfDot/cocos2d/build/../cocos/editor-support/cocostudio/DictionaryHelper.h \
+  /work/github/HalfDot/cocos2d/build/../external/json/document.h \
+  /work/github/HalfDot/cocos2d/build/../external/json/reader.h \
+  /work/github/HalfDot/cocos2d/build/../external/json/rapidjson.h \
+  /work/github/HalfDot/cocos2d/build/../external/json/internal/pow10.h \
+  /work/github/HalfDot/cocos2d/build/../external/json/internal/stack.h \
+  /work/github/HalfDot/cocos2d/build/../external/json/internal/strfunc.h \
+  /work/github/HalfDot/cocos2d/build/../cocos/platform/CCStdC.h \
+  /work/github/HalfDot/cocos2d/build/../cocos/platform/ios/CCStdC-ios.h
